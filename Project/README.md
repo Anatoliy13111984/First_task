@@ -15,7 +15,7 @@
 ## Project Description
 Guess the number guessed by the computer in the minimum number of attempts.
 
-[⬆️к оглавлению](https://github.com/Anatoliy13111984/First_task/tree/main/Project)
+[⬆️к оглавлению](https://github.com/Anatoliy13111984/First_task/tree/main/Project#Table-of-contents)
 
 ## What case are we solving?
 It is necessary to write a program that guesses the number in the minimum number of attempts
@@ -35,7 +35,7 @@ What we practice
 ## Brief information about the date
 As data, we generate a numpy array of random integers from 1 to 100 inclusive.
 
-[⬆️to the table of contents](https://github.com/Anatoliy13111984/First_task/tree/main/Project)
+[⬆️to the table of contents](https://github.com/Anatoliy13111984/First_task/tree/main/Project#Table-of-contents)
 
 ## Stages of work on the project
 
@@ -45,14 +45,17 @@ As data, we generate a numpy array of random integers from 1 to 100 inclusive.
 * Registration of results in a notebook
 * Design README.md
 
-[⬆️to the table of contents](https://github.com/Anatoliy13111984/First_task/tree/main/Project)
+[⬆️to the table of contents](https://github.com/Anatoliy13111984/First_task/tree/main/Project#Table-of-contents)
 
 ## Result:
+
+[* Game_](https://github.com/Anatoliy13111984/First_task/blob/main/Project/task.ipynb)
+
 The number of attempts was reduced to 6-7
 
-[⬆️to the table of contents](https://github.com/Anatoliy13111984/First_task/tree/main/Project)
+[⬆️to the table of contents](https://github.com/Anatoliy13111984/First_task/tree/main/Project#Table-of-contents)
 
 ## Conclusions:
 The method of finding the number by the method of half division corresponds to the task and shows the result better than the threshold value of 20.
 
-[⬆️to the table of contents](https://github.com/Anatoliy13111984/First_task/tree/main/Project)
+[⬆️to the table of contents](https://github.com/Anatoliy13111984/First_task/tree/main/Project#Table-of-contents)
