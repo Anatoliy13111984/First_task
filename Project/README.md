@@ -1,21 +1,21 @@
 # Project Game: Guess the number.
 ## Table of contents
-[1. Project Description]()
+[1. Project Description](https://github.com/Anatoliy13111984/First_task/tree/main/Project#Project-Description)
 
-[2. What case are we solving?]()
+[2. What case are we solving?](https://github.com/Anatoliy13111984/First_task/tree/main/Project#What-case-are-we-solving)
 
-[3. Brief information about the date]()
+[3. Brief information about the date](https://github.com/Anatoliy13111984/First_task/tree/main/Project#Brif-information-about-the-data)
 
-[4. Stages of work on the project]()
+[4. Stages of work on the project](https://github.com/Anatoliy13111984/First_task/tree/main/Project#Stages-of-work-on-the-project)
 
-[5. Result]()
+[5. Result](https://github.com/Anatoliy13111984/First_task/tree/main/Project#Result)
 
-[6. Conclusions]()
+[6. Conclusions](https://github.com/Anatoliy13111984/First_task/tree/main/Project#Conclusions)
 
 ## Project Description
 Guess the number guessed by the computer in the minimum number of attempts.
 
-[⬆️к оглавлению]()
+[⬆️к оглавлению](https://github.com/Anatoliy13111984/First_task/tree/main/Project)
 
 ## What case are we solving?
 It is necessary to write a program that guesses the number in the minimum number of attempts
@@ -35,7 +35,7 @@ What we practice
 ## Brief information about the date
 As data, we generate a numpy array of random integers from 1 to 100 inclusive.
 
-[⬆️to the table of contents]()
+[⬆️to the table of contents](https://github.com/Anatoliy13111984/First_task/tree/main/Project)
 
 ## Stages of work on the project
 
@@ -45,14 +45,14 @@ As data, we generate a numpy array of random integers from 1 to 100 inclusive.
 * Registration of results in a notebook
 * Design README.md
 
-[⬆️to the table of contents]()
+[⬆️to the table of contents](https://github.com/Anatoliy13111984/First_task/tree/main/Project)
 
 ## Result:
 The number of attempts was reduced to 6-7
 
-[⬆️to the table of contents]()
+[⬆️to the table of contents](https://github.com/Anatoliy13111984/First_task/tree/main/Project)
 
 ## Conclusions:
 The method of finding the number by the method of half division corresponds to the task and shows the result better than the threshold value of 20.
 
-[⬆️to the table of contents]()
+[⬆️to the table of contents](https://github.com/Anatoliy13111984/First_task/tree/main/Project)
